@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **AI Engineering ** graduate @ Alamein International University (AIU), Egypt
+- 🎓 **AI Engineering** graduate @ Alamein International University (AIU), Egypt
 - 🤖 Passionate about **AI**, **NLP**, and **Machine Learning**
 - 🧬 Built a **Brain Tumor Detection system** using CNNs
 - 💡 Worked on **rule-based AI**, **RL agents**, and **cloud-based learning platforms**
