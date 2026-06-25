@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya+Mamdouh+%F0%9F%91%8B;AI+Engineering+Student;Computer+Vision+%7C+NLP+%7C+ML;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aya+Mamdouh+%F0%9F%91%8B;AI+Engineering+Student;AI+%7C+NLP+%7C+ML;Building+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -8,8 +8,8 @@
 
 ## 🧠 About Me
 
-- 🎓 **AI Engineering**  Alamein International University (AIS), Egypt
-- 🤖 Passionate about **Computer Vision**, **NLP**, and **Machine Learning**
+- 🎓 **AI Engineering ** graduate @ Alamein International University (AIU), Egypt
+- 🤖 Passionate about **AI**, **NLP**, and **Machine Learning**
 - 🧬 Built a **Brain Tumor Detection system** using CNNs
 - 💡 Worked on **rule-based AI**, **RL agents**, and **cloud-based learning platforms**
 - 🌍 Based in **Egypt** | Open to collaborations & internships
