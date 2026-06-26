@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aya+Mamdouh+%F0%9F%91%8B;AI+Engineer;NLP+%7C+ML+%7C+Recommender+Systems;Building+Intelligent+Systems" alt="Typing SVG" />
 
@@ -119,3 +119,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=80&section=footer"/>
 </div>
+**
