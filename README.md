@@ -204,7 +204,7 @@ Automated workflow that monitors system events, detects failures in real time, a
 
 <div align="center">
 
-*✨ "The goal of AI is not to replace human intelligence, but to amplify it." ✨*
+*✨ "The goal of AI is not to replace human intelligence, but to amplify it" ✨*
 
 <br/>
 
